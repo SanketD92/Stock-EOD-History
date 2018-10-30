@@ -1,2 +1,2 @@
 # Stock-EOD-History
-Get Stock EOD History from www. EODData.com
+Get Stock EOD History from www.EODData.com
