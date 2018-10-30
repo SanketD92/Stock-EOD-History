@@ -1,5 +1,7 @@
-"""BeautifulSoup4 needs to be installed first if you're using Python 3.x. 
-If you're using Python 2.x you can use the old BeautifulSoup"""
+"""
+BeautifulSoup4 needs to be installed first if you're using Python 3.x. 
+If you're using Python 2.x you can use the old BeautifulSoup
+"""
 
 import urllib.request
 from bs4 import BeautifulSoup
